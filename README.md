@@ -3,6 +3,6 @@ This is a React project that uses the stable diffusion API to produce pictures f
 https://myaigen55.onrender.com/
 
 
-![siteImage](siteImage.jpeg)
+![siteImage](siteImage.jpg)
 
 
